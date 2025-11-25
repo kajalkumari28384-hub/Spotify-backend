@@ -1,5 +1,5 @@
-﻿flask
+flask
 flask-cors
 spotipy
-yt-dlp
 gunicorn
+yt-dlp>=2024.11.04
